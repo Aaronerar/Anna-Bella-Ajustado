@@ -43,6 +43,17 @@ h1 {
     font-size: 1.2em;
 }
 
+@media (min-width: 250px) {
+    #principal {
+        width: 200px;
+    }
+
+    img {
+        width: 200px;
+    }
+}
+
+
 @media (min-width: 400px) {
     #principal {
         width: 340px;
